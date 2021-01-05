@@ -1,6 +1,6 @@
-===========================
-Clean Architecture Utilites
-===========================
+============================
+Clean Architecture Utilities
+============================
 
 
 .. image:: https://img.shields.io/pypi/v/ca_util.svg
